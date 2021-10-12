@@ -1,3 +1,5 @@
+[![Python 3.8](https://github.com/machinatoonist/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/machinatoonist/scaffold/actions/workflows/main.yml)
+
 # Scaffold
 This is a project scaffold for Python
 
